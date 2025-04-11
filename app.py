@@ -4,8 +4,8 @@ import pandas as pd
 import re
 from io import BytesIO
 
-st.set_page_config(page_title="Extrator de Recibos MPRJ", layout="centered")
-st.title("📥 Extrator de Recibos - MPRJ")
+st.set_page_config(page_title="Extrator de Recibos eletrônico de Táxi para Excel", layout="centered")
+st.title("📥 Extrator de Recibos eletrônico de Táxi para Excel")
 st.write("Envie um arquivo PDF com os recibos eletrônicos de táxi para extrair as informações estruturadas em Excel.")
 
 # Upload do PDF
