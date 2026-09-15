@@ -1,4 +1,6 @@
 streamlit
-pandas
 pdfplumber
+pandas
 openpyxl
+rapidocr
+onnxruntime
